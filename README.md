@@ -49,10 +49,8 @@ Our team of AI Engineers and developers are always encouraged to involve in solu
 We are always willing to collaborate with likeminded people to accelerate our research domains.
 If you think you can push us ahead in this, do contact us!
 
-# Connect with us
-[1.1]: https://github.com/AI-ML-Consultant/about/blob/master/assets/instagram.png
-
-[1]: https://www.instagram.com/aiml.consultant/
- 
-
- 
+# Connect with us:
+### [LinkedIn](https://www.linkedin.com/company/aiml-consultant/?)
+### [Website](https://www.aimlconsultant.com/)
+### [Instagram](https://https://www.instagram.com/aiml.consultant/)
+### [Medium](https://medium.com/ai-ml-consultant)
