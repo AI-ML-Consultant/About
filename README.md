@@ -52,7 +52,38 @@ We are always willing to collaborate with likeminded people to accelerate our re
 If you think you can push us ahead in this, do contact us!
 
 # Connect with us:
-### [LinkedIn](https://www.linkedin.com/company/aiml-consultant/?)
-### [Website](https://www.aimlconsultant.com/)
-### [Instagram](https://https://www.instagram.com/aiml.consultant/)
-### [Medium](https://medium.com/ai-ml-consultant)
+
+<!DOCTYPE html>
+<html>
+<body>
+
+
+<a href="https://www.aimlconsultant.com/">
+<img border="0" alt="www.aimlconsultant.com" src="https://github.com/AI-ML-Consultant/about/blob/master/assets/PicsArt_04-15-03.27.33-02-01.jpeg" width="70" height="50">
+</a>
+
+
+ 
+
+<a href="https://medium.com/ai-ml-consultant">
+<img border="0" alt="Medium" src="https://github.com/AI-ML-Consultant/about/blob/master/assets/1_emiGsBgJu2KHWyjluhKXQw.png" width="50" height="50">
+</a>
+
+
+<a href="https://www.linkedin.com/company/aiml-consultant/">
+<img border="0" alt="LinkedIn" src="https://github.com/AI-ML-Consultant/about/blob/master/assets/linkedin.png" width="90" height="50">
+</a>
+
+
+<a href="connectus@aimlconsultant.com">
+<img border="0" alt="Mail" src="https://github.com/AI-ML-Consultant/about/blob/master/assets/gmail-computer-icons-email-client-user-gmail.png" width="50" height="50">
+</a>
+
+
+<a href="https://www.instagram.com/aiml.consultant">
+<img border="0" alt="Instagram" src="https://github.com/AI-ML-Consultant/about/blob/master/assets/instagram-png-instagram-png-logo-1455.png" width="50" height="50">
+</a>
+
+</body>
+</html>
+
