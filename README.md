@@ -23,7 +23,7 @@ Our Team has weekly Innovate Meets where their week’s ideas and knowledge they
 
 Because we believe in giving back our knowledge to the world out there our teammates are also encouraged to write blogs, papers and publications to showcase their ideas and knowledge. 
 
-We have students interns openings throughout the year in spans of 1 month to 12 months in our research wings to leverage fresh and young talents to work with us to explore more in their fields of interest.
+**We have students interns openings throughout the year in spans of 1 month to 12 months in our research wings to leverage fresh and young talents to work with us to explore more in their fields of interest.**
 
 ### **Our Ongoing Projects and Research Areas:**
 
@@ -41,9 +41,11 @@ Machine Learning models which predict and help in decisions which increase produ
 Industries of any domain Indexing the Key Performance Indicators (KPI) affecting the production and optimizing it with an intelligent solution, which can boost their production exponentially.
 
 **Medical AI**
+
 Our Solutions in Healthcare services range in many domains from Smart Electronic Health Records, Patient monitoring and Risk Identification, Predictive Medicine and much more.
 
 **AI for Social Good**
+
 Our team of AI Engineers and developers are always encouraged to involve in solutions for Social Good. We believe in giving back to society with the skills we are best at. So, we keep engaging with societal stakeholders to analyse the need and provide technological solutions wherever possible. 
 
 We are always willing to collaborate with likeminded people to accelerate our research domains.
